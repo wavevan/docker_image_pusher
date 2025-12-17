@@ -1,1 +1,1 @@
---platform=linux/amd64 gcr.io/k8s-minikube/kicbase:v0.0.48
+ghcr.io/graalvm/graalvm-community:17.0.9
