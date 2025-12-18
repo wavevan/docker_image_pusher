@@ -1,1 +1,1 @@
-registry.k8s.io/pause:3.10
+docker.io/calico/cni:v3.28.1
