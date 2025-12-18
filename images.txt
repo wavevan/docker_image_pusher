@@ -1,1 +1,1 @@
-ghcr.io/graalvm/graalvm-community:17.0.9
+registry.k8s.io/pause:3.10
