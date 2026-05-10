@@ -1,1 +1,1 @@
-docker.io/coredns/coredns:1.10.1
+docker.io/library/python:3.12-slim
